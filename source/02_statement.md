@@ -1,0 +1,10 @@
+<!-- This page is for an official declaration. -->
+
+
+\vspace*{\fill}
+\noindent 
+\textit{
+I hereby declare that except where specific reference is made to the work of others, the contents of this dissertation are original and have not been submitted in whole or in part for consideration for any other degree or qualification in this, or any other university. This dissertation is my own work and contains nothing which is the outcome of work done in collaboration with others, except as specified in the text and Acknowledgements. 
+}
+\vspace*{\fill}
+
