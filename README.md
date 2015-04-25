@@ -1,6 +1,6 @@
-# King's College London Thesis Template
+# Markdown Template for King's College London PhD Thesis
 
-This repository contains a PhD thesis template in [Markdown](http://en.wikipedia.org/wiki/Markdown) that conforms to [King's College London's](http://kcl.ac.uk/) [guidelines](http://www.kcl.ac.uk/sspp/departments/politicaleconomy/For-Current-Students/PhD-Handbook-2014-15.pdf). It's a very slightly modified version of [Tom Pollard's](http://tomp.io/) [Markdown template](https://github.com/tompollard/phd_thesis_markdown). I'd like to thank him for sharing his work. 
+This repository contains a [Markdown](http://en.wikipedia.org/wiki/Markdown) template that conforms to [King's College London's](http://kcl.ac.uk/) [PhD guidelines](http://www.kcl.ac.uk/sspp/departments/politicaleconomy/For-Current-Students/PhD-Handbook-2014-15.pdf). It's a very slightly modified version of [Tom Pollard's](http://tomp.io/) [template for UCL ](https://github.com/tompollard/phd_thesis_markdown). I'd like to thank him for sharing his work. 
 
 ## Why Markdown?
 
@@ -118,7 +118,7 @@ Some important reminders from the author:
 
 ## Changes to the original template
 
-I've made some very small changes to the original repository:
+I've added some minor changes to the original repository:
 
 * References are formatted in Chicago style. 
 * King's logo was added to the title page
@@ -131,4 +131,4 @@ All of them can be easily reverted if necessary. For instance, if you want to us
 
 ## Comments and suggestions
 
-Feel free to send me a message if you find any mistake or have any suggestion to improve this template. Consider writing to the author as well. Once again, thanks to Tom Pollard for this great thesis template. I hope you like it as much as I do, and have a good time at King's :)
+Feel free to send me a message if you find any mistake or have any suggestion to improve this repository. Consider writing to the author as well. Once again, thanks to Tom Pollard for the nice template. I hope you like it as much as I do, and have a good time at King's :)
