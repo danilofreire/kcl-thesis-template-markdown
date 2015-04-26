@@ -7,11 +7,9 @@ This is the Latex-heavy title page.
 
     % Delete the following line
     % to remove the UCL header logo
-    \vspace{1.5cm}
-    \ThisULCornerWallPaper{.35}{style/kcl_logo.eps}
+    \ThisULCornerWallPaper{.3}{style/kcl_logo.eps}
         
-        \vspace*{2.5cm}
-        
+        \vspace*{2cm}
         \huge
         Thesis Title
         
