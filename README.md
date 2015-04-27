@@ -60,7 +60,6 @@ Links:
 ````
 Welcome to [King's College London](http://kcl.ac.uk/).
 ````
-
 Welcome to [King's College London](http://kcl.ac.uk/).
 
 Tables:
@@ -78,11 +77,7 @@ Tables:
 |*left-aligned*|~~centre-aligned~~|**right-aligned**|
 |$123          |$456              |$789             |
 
-<<<<<<< HEAD
-Easy, isn't it? Please visit [John Grueber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
-=======
-Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
->>>>>>> 94193c422618c8e4568804116dbda6238f0549b8
+Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a very useful reference guide.
 
 ## Why should I *not* use Markdown?
 
@@ -114,7 +109,7 @@ Add your references to `references.bib`. If you're using Google Scholar, click o
 }
 ````
 
-Just copy and paste the text onto the `.bib` file and you're done. To cite Nash's paper in your thesis, just type `[@nash1951non]`. More about citations [here](http://stackoverflow.com/questions/13607156/autocomplete-pandoc-style-citations-from-a-bibtex-file-in-emacs).  
+Just copy and paste the text onto the `.bib` file and you're done. To cite Nash's paper in your thesis, just type `[@nash1951non]`. More about citations [here](http://stackoverflow.com/questions/13607156/autocomplete-pandoc-style-citations-from-a-bibtex-file-in-emacs). You can add footnotes, too. Click [here](http://pandoc.org/README.html#footnotes) to see how.
 
 Finally, you'll need [LaTeX](http://latex-project.org/ftp.html) and [Pandoc](http://johnmacfarlane.net/pandoc/README.html) to convert your Markdown output to pdf. Go to the folder that contains "Makefile" and type `make pdf` at your command line. Your pdf will be on the "output" folder.
 
