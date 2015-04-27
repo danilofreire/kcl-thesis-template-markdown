@@ -6,7 +6,7 @@ This is the Latex-heavy title page.
     \begin{center}
 
     % Delete the following line
-    % to remove the UCL header logo
+    % to remove the King's logo
     \ThisULCornerWallPaper{.3}{style/kcl_logo.eps}
         
         \vspace*{2cm}
