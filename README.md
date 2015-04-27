@@ -14,7 +14,7 @@ Markdown is a powerful text formatting syntax. It has many benefits:
 
 ## Examples
 
-As [John Grueber says](http://daringfireball.net/projects/markdown/), the best way to learn Markdown's syntax is simply to look at a Markdown-formatted document. This is how Markdown handles headers:
+As [John Gruber says](http://daringfireball.net/projects/markdown/), the best way to learn Markdown's syntax is simply to look at a Markdown-formatted document. This is how Markdown handles headers:
 
 ````
 # Header 1
@@ -76,7 +76,7 @@ Tables:
 |*left-aligned*|~~centre-aligned~~|**right-aligned**|
 |$123          |$456              |$789             |
 
-Easy, isn't it? Please visit [John Grueber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
+Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
 
 ## Why should I *not* use Markdown?
 
