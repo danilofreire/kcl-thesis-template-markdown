@@ -76,7 +76,7 @@ Tables:
 |*left-aligned*|~~centre-aligned~~|**right-aligned**|
 |$123          |$456              |$789             |
 
-Easy, isn't it? Please visit [John Grueber's page](http://daringfireball.net/projects/markdown/) to learn more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to start learning Markdown and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
+Easy, isn't it? Please visit [John Grueber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
 
 ## Why should I *not* use Markdown?
 
