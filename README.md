@@ -1,6 +1,8 @@
 # Markdown Template for King's College London PhD Thesis
 
-This repository contains a [Markdown](http://en.wikipedia.org/wiki/Markdown) template that conforms to [King's College London's](http://kcl.ac.uk/) [PhD guidelines](http://www.kcl.ac.uk/sspp/departments/politicaleconomy/For-Current-Students/PhD-Handbook-2014-15.pdf). It's a very slightly modified version of [Tom Pollard's](http://tomp.io/) [template](https://github.com/tompollard/phd_thesis_markdown). I'd like to thank him for sharing his work. 
+This repository contains a [Markdown](http://en.wikipedia.org/wiki/Markdown) template that conforms to [King's College London's](http://kcl.ac.uk/) [PhD guidelines](http://www.kcl.ac.uk/sspp/departments/politicaleconomy/For-Current-Students/PhD-Handbook-2014-15.pdf). It's a very slightly modified version of [Tom Pollard's](http://tomp.io/) [template](https://github.com/tompollard/phd_thesis_markdown). I'd like to thank him for sharing his work.
+
+You can see an example PDF [here](http://danilofreire.com/publications/2015/template.pdf). 
 
 ## Why Markdown?
 
@@ -76,7 +78,11 @@ Tables:
 |*left-aligned*|~~centre-aligned~~|**right-aligned**|
 |$123          |$456              |$789             |
 
+<<<<<<< HEAD
+Easy, isn't it? Please visit [John Grueber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
+=======
 Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
+>>>>>>> 94193c422618c8e4568804116dbda6238f0549b8
 
 ## Why should I *not* use Markdown?
 
@@ -130,6 +136,7 @@ I've added some minor changes to the original repository:
 * Added Libertine to figure and table captions
 * Increased or reduced vertical space throughout the file
 * Added a different text for the statement of academic integrity
+* Commands to prevent hyphenation
 
 All changes can be easily reverted if necessary. For instance, if you want to use the default [Computer Modern](http://en.wikipedia.org/wiki/Computer_Modern) font instead of Libertine, just add `%` before `\usepackage[osf]{libertine}` in `preamble.tex`.
 

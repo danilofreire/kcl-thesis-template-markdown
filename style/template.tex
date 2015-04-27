@@ -138,6 +138,11 @@ $if(lang)$
 \fi
 $endif$
 
+\exhyphenpenalty=1000 % Prevent hyphenation and use line break in block of text
+\hyphenpenalty=1000
+\widowpenalty=1000
+\clubpenalty=1000
+
 $if(title)$
 \title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}
 $endif$
