@@ -135,4 +135,4 @@ All changes can be easily reverted if necessary. For instance, if you want to us
 
 ## Comments and suggestions
 
-Feel free to send me a message if you find any mistake or have any suggestion to improve this repository. Consider writing to the author as well. Once again, thanks to Tom Pollard for the nice template. I hope you like it as much as I do, and have a good time at King's :)
+Feel free to send me a message if you find any mistake or have any suggestion to improve this repository. Once again, thanks to Tom Pollard for providing his template. I hope this repository is useful and I wish you a good time at King's :)
