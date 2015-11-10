@@ -2,7 +2,7 @@
 
 This repository contains a [Markdown](http://en.wikipedia.org/wiki/Markdown) template that conforms to [King's College London's](http://kcl.ac.uk/) [PhD guidelines](http://www.kcl.ac.uk/sspp/departments/politicaleconomy/For-Current-Students/PhD-Handbook-2014-15.pdf). It's a very slightly modified version of [Tom Pollard's](http://tomp.io/) [template](https://github.com/tompollard/phd_thesis_markdown). I'd like to thank him for sharing his work.
 
-You can see an example PDF [here](http://danilofreire.com/publications/2015/template.pdf). 
+You can see an example PDF [here](http://danilofreire.com/publications/template.pdf). 
 
 ## Why Markdown?
 
