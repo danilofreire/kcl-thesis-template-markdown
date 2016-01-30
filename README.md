@@ -39,18 +39,16 @@ Emphasis:
 Lists:
 
 ````
-1. This 
-2. is
-3. a
-4. list
+1. An
+2. ordered
+3. list
 
 * Unordered
 * list
 ````
-1. This 
-2. is
-3. a
-4. list
+1. An
+2. ordered
+3. list
 
 * Unordered
 * list
@@ -68,15 +66,17 @@ Tables:
 ````
 | A            | New              | Table           |
 |:-------------|:----------------:|----------------:|
-|*left-aligned*|~~centre-aligned~~|**right-aligned**|
+|left-aligned  |centre-aligned    |right-aligned    |
 |$123          |$456              |$789             |
+|*italics*     |~~strikethrough~~ |**boldface**     |
 
 ````
 
 | A            | New              | Table           |
 |:-------------|:----------------:|----------------:|
-|*left-aligned*|~~centre-aligned~~|**right-aligned**|
+|left-aligned  |centre-aligned    |right-aligned    |
 |$123          |$456              |$789             |
+|*italics*     |~~strikethrough~~ |**boldface**     |
 
 Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/projects/markdown/) to know more about Markdown. [This tutorial](http://markdowntutorial.com/) is a good place to learn the basics of the language and [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a great reference.
 
