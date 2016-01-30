@@ -39,16 +39,14 @@ Emphasis:
 Lists:
 
 ````
-1. An
-2. ordered
-3. list
+1. Ordered
+2. list
 
 * Unordered
 * list
 ````
-1. An
-2. ordered
-3. list
+1. Ordered
+2. list
 
 * Unordered
 * list
