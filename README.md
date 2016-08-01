@@ -126,7 +126,7 @@ I've added some minor changes to the original repository:
 
 * References are formatted in [Chicago style](https://owl.english.purdue.edu/owl/resource/717/01/). 
 * King's logo was added to the title page
-* Fonts were changed to [Libertine](http://en.wikipedia.org/wiki/Linux_Libertine) because the previous one didn't work well on Ubuntu Linux (14.04 LTS)
+* Fonts were changed to [Libertine](http://en.wikipedia.org/wiki/Linux_Libertine). You can download it [here](http://www.linuxlibertine.org/index.php?id=91&L=1).
 * Added Libertine to figure and table captions
 * Increased or reduced vertical space throughout the file
 * Added a different text for the statement of academic integrity
