@@ -83,9 +83,9 @@ Easy, isn't it? Please visit [John Gruber's page](http://daringfireball.net/proj
 Tom ranks some reasons why Markdown is not (yet) perfect:
 
 > There are some minor annoyances:
-- if you haven't worked with Markdown before then you'll find yourself referring to the style-guide fairly often at first.
-- it isn't possible to add a short caption to figures and tables. This means that /listoftables and /listoffigures include the long-caption, which probably isn't what you want. If you want to include the list of tables and list of figures, then you have to write them manually.
-- all of the style documents in this framework could be improved. The PDF output is acceptable as it is, but HTML and Word need work if you plan to use these formats.
+> - if you haven't worked with Markdown before then you'll find yourself referring to the style-guide fairly often at first.
+> - it isn't possible to add a short caption to figures and tables. This means that /listoftables and /listoffigures include the long-caption, which probably isn't what you want. If you want to include the list of tables and list of figures, then you have to write them manually.
+> - all of the style documents in this framework could be improved. The PDF output is acceptable as it is, but HTML and Word need work if you plan to use these formats.
 
 But they're indeed minor annoyances. The pros surely outweigh the cons :)
 
@@ -115,20 +115,19 @@ Finally, you'll need [LaTeX](http://latex-project.org/ftp.html) and [Pandoc](htt
 Some important reminders from Tom:
 
 > - each chapter must finish with at least one blank line, otherwise the header of the following chapter may not be picked up.
-- add two spaces at the end of a line to force a line break.
-- the template uses [John Macfarlane's Pandoc](http://johnmacfarlane.net/pandoc/README.html) to generate the output documents. Refer to this page for Markdown formatting guidelines.
-- PDFs are generated using the Latex templates in the style directory. Fonts etc can be changed in the tex templates.
-- To change the citation style, just overwrite ref_format.csl with the new style. Style files can be obtained from [citationstyles.org/](http://citationstyles.org/)
+> - add two spaces at the end of a line to force a line break.
+> - the template uses [John Macfarlane's Pandoc](http://johnmacfarlane.net/pandoc/README.html) to generate the output documents. Refer to this page for Markdown formatting guidelines.
+> - PDFs are generated using the Latex templates in the style directory. Fonts etc can be changed in the tex templates.
+> - To change the citation style, just overwrite ref_format.csl with the new style. Style files can be obtained from [citationstyles.org/](http://citationstyles.org/)
 
 ## Changes to the original template
 
 I've added some minor changes to the original repository:
 
-* References are formatted in [Chicago style](https://owl.english.purdue.edu/owl/resource/717/01/). 
-* King's logo was added to the title page
-* Fonts were changed to [Libertine](http://en.wikipedia.org/wiki/Linux_Libertine). You can download it [here](http://www.linuxlibertine.org/index.php?id=91&L=1).
-* Added Libertine to figure and table captions
-* Increased or reduced vertical space throughout the file
+* References follow the [Chicago style](https://owl.english.purdue.edu/owl/resource/717/01/). 
+* King's logo added to the title page
+* Fonts were changed to [Libertine](http://en.wikipedia.org/wiki/Linux_Libertine). You can download the font [here](http://www.linuxlibertine.org/index.php?id=91&L=1)
+* Adjusted vertical space throughout the file (quite subjectively)
 * Added a different text for the statement of academic integrity
 * Commands to prevent hyphenation
 
